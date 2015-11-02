@@ -1,0 +1,4 @@
+54.225.104.196 - - [02/Nov/2015:02:02:16 +0100] "GET / HTTP/1.1" 200 14261 "-" "Mozilla/5.0 (compatible; Embedly/0.2; +http://support.embed.ly/)"
+54.204.20.250 - - [02/Nov/2015:02:02:17 +0100] "GET /img/400contactsfavicon.png HTTP/1.1" 200 1484 "-" "Mozilla/5.0 (compatible; Embedly/0.2; snap; +http://support.embed.ly/)"
+54.221.199.147 - - [02/Nov/2015:02:02:17 +0100] "GET /favicon.ico HTTP/1.1" 404 1359 "-" "Mozilla/5.0 (compatible; Embedly/0.2; snap; +http://support.embed.ly/)"
+54.225.104.196 - - [02/Nov/2015:02:02:17 +0100] "GET /img/makersAcademyLogo.png HTTP/1.1" 200 9137 "-" "Mozilla/5.0 (compatible; Embedly/0.2; snap; +http://support.embed.ly/)"
